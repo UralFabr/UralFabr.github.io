@@ -1,0 +1,25 @@
+#elastic {
+    display: inline-block; /* Строчно-блочный элемент */
+}
+.text-center {
+    text-align: center;
+}
+
+.elastic li{
+    transition: all ease 500ms;
+      list-style-type: none; /* Убираем маркеры */
+}
+
+.elastic li.hide {
+    display: inline-block; /* Строчно-блочный элемент */
+
+}
+
+mark {
+    background: pink;
+}
+
+.button-success a {
+    color: #fff;
+    text-decoration: none;
+}
