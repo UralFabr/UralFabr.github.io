@@ -16,3 +16,7 @@ margin: 0;
   font-family: 'Golos Text_DemiBold.ttf';
   src: url('/font/Golos Text_DemiBold.ttf') format('truetype');
 }
+@font-face {
+  font-family: 'ofont.ru_Verdana.ttf';
+  src: url('/font/ofont.ru_Verdana.ttf') format('truetype');
+}
