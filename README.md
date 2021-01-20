@@ -1,5 +1,6 @@
 <html>
     <head>
+        <meta name="yandex-verification" content="725abbc67eea528f" />
         <meta name="google-site-verification" content="YGc2QwAuRkg0vBRF3TnVL3aPfsW6nTffqLocJYYByWQ" />
         <script data-ad-client="ca-pub-2658303976978345" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
         <meta http-equiv="refresh" content="0;https://uralfabr.github.io/home.html">
@@ -47,6 +48,6 @@ background: url(https://github.com/GooseFabr/GooseFabr.github.io/blob/main/img/U
 
 <link rel="shortcut icon" href="GooseFabr.github.io/img/favicon.goose.ico">
        </head>
-<h1><a href="https://goosefabr.github.io/brigde.html">Гусевский мост </a><h1>
+<h1><a href="https://uralfabr.github.io/brigde.html">Гусевский мост </a><h1>
 </h1></h1>
 </html>
