@@ -418,11 +418,13 @@ setTimeout('startTime()',7000);
     </script>
    <br>
    <br>
-   <script>
-      var link = document.querySelector('link[rel=import]');
-      var content = link.import.querySelector('slideshow-container');
-      document.body.appendChild(content.cloneNode(true));
-    </script>
+   <script src="http://ajax.microsoft.com/ajax/jquery/jquery-1.4.2.min.js" type="text/javascript"></script> 
+<script type="text/javascript">
+$("documend").ready(function(){
+   $("#slideshow-container").load("UralFabr.github.io/reklama.html");
+});
+</script>
+
    <div class="slideshow-container">
 
 <div class="mySlides fade">
