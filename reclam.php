@@ -1,4 +1,4 @@
-[PHP]<?php
+<?php
 $body_1 = '
 <table>
 <div class="slideshow-container">
@@ -30,4 +30,4 @@ $body_1 = '
 </div>
 </div>
 </table>';
-?>[/PHP]
+?>
