@@ -416,13 +416,9 @@ setTimeout('startTime()',7000);
     type: 'image' // this is a default type
 });
     </script>
-   <br>
-   <br>
-   <script src="UralFabr.github.io/jquery-1.4.2.min.js" type="text/javascript"></script> 
-<script type="text/javascript">
-$("documend").ready(function(){
-   $("#slideshow-container").load("UralFabr.github.io/reklama.html");
-});
+   var link = document.querySelector('link[rel=import]');
+var content = link.import.querySelector('#slideshow-container');
+document.body.appendChild(content.cloneNode(true));
 </script>
 
    <div class="slideshow-container">
