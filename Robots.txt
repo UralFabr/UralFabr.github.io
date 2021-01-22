@@ -2,4 +2,4 @@ User-agent: *
 
 Disallow: 
 Host: https://uralfabr.github.io
-Sitemap: https://uralfabr.github.io/home.html/sitemap.xml
+Sitemap: https://uralfabr.github.io/sitemap.xml
