@@ -1,5 +1,7 @@
-User-agent: *
 
-Disallow: 
-Host: https://uralfabr.github.io
+User-agent: Yandex
 Sitemap: https://uralfabr.github.io/sitemap.xml
+
+User-agent: Google
+Sitemap: https://uralfabr.github.io/sitemap.xml
+
