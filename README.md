@@ -15,7 +15,7 @@
                                 Таборинская, рабочая, культурная , малково, болото малково, Монастырское,Свердловская, Свердловская область  "> 
         <style>
             body{
-background: url(https://github.com/GooseFabr/GooseFabr.github.io/blob/main/img/U62ybAJbehQ.jpg?raw=true) no-repeat; 
+background-color: #000;
  margin-right: 15%;
  margin-left: 20%;
  text-align: justify;
@@ -48,6 +48,5 @@ background: url(https://github.com/GooseFabr/GooseFabr.github.io/blob/main/img/U
 
 <link rel="shortcut icon" href="GooseFabr.github.io/img/favicon.goose.ico">
        </head>
-<h1><a href="https://uralfabr.github.io/brigde.html">Гусевский мост </a><h1>
 </h1></h1>
 </html>
