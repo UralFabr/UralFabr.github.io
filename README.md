@@ -1,5 +1,6 @@
 <html>
     <head>
+        <link rel="shortcut icon" href="UralFabr.github.io/el.ico" type="image/x-icon">
         <title>Ural | Fabr – Заброшки Урала </title>
         <meta name="yandex-verification" content="725abbc67eea528f" />
         <meta name="google-site-verification" content="YGc2QwAuRkg0vBRF3TnVL3aPfsW6nTffqLocJYYByWQ" />
@@ -47,7 +48,7 @@ background-color: #000;
 <noscript><div><img src="https://mc.yandex.ru/watch/71357578" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika counter -->
 
-<link rel="shortcut icon" href="UralFabr.github.io/img/el.ico" type="image/x-icon">
+<link rel="shortcut icon" href="UralFabr.github.io/el.ico" type="image/x-icon">
        </head>
 </h1></h1>
 </html>
