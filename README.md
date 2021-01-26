@@ -1,6 +1,6 @@
 <html>
     <head>
-        <link rel="shortcut icon" href="UralFabr.github.io/el.ico" type="image/x-icon">
+        <link rel="shortcut icon" href="UralFabr.github.io/favicon-32x32.png" type="image/png">
         <title>Ural | Fabr – Заброшки Урала </title>
         <meta name="yandex-verification" content="725abbc67eea528f" />
         <meta name="google-site-verification" content="YGc2QwAuRkg0vBRF3TnVL3aPfsW6nTffqLocJYYByWQ" />
