@@ -15,23 +15,7 @@
                                 таборы,мост, ЦБЗ, Туринский техникум, фазана, Фабричное СОШ, МАОУ Фабричное СОШ,Водоисточник,Акварель, 
                                 Таборинка, Жилина, Клещево, кляче, Чекуново, Школьная,Больничная, Табочинская, Победы, Сельсовет, Революции, 
                                 Таборинская, рабочая, культурная , малково, болото малково, UralFabr , Монастырское,Свердловская, Свердловская область  "> 
-        <style>
-            body{
-background-color: #000;
- margin-right: 15%;
- margin-left: 20%;
- text-align: justify;
- margin-top : 0px;
-    -moz-background-size: 100%;
-    -webkit-background-size: 100%;
-    -o-background-size: 100%;
-    background-size: 100%;
-     -moz-background-size: 100% auto; 
-    -webkit-background-size: 100% auto;
-    -o-background-size: 100% auto; 
- color:#000;
-}
-            </style>
+       
        <!-- Yandex.Metrika counter -->
 <script type="text/javascript" >
    (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
@@ -48,7 +32,7 @@ background-color: #000;
 <noscript><div><img src="https://mc.yandex.ru/watch/71357578" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika counter -->
 
-<link rel="shortcut icon" href="UralFabr.github.io/el.ico" type="image/x-icon">
+<link rel="shortcut icon" href="UralFabr.github.io/favicon-32x32.png" type="image/png">
        </head>
 </h1></h1>
 </html>
