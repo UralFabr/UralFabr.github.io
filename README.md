@@ -1,6 +1,6 @@
 <html>
     <head>
-        <link rel="shortcut icon" href="UralFabr.github.io/favicon-32x32.png" type="image/png">
+        <link rel="icon" href="https://github.com/UralFabr/UralFabr.github.io/blob/main/favicon-32x32.png?raw=true" type="image/png">
         <title>Ural | Fabr – Заброшки Урала </title>
         <meta name="yandex-verification" content="725abbc67eea528f" />
         <meta name="google-site-verification" content="YGc2QwAuRkg0vBRF3TnVL3aPfsW6nTffqLocJYYByWQ" />
@@ -32,7 +32,7 @@
 <noscript><div><img src="https://mc.yandex.ru/watch/71357578" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika counter -->
 
-<link rel="shortcut icon" href="UralFabr.github.io/favicon-32x32.png" type="image/png">
+<link rel="icon" href="https://github.com/UralFabr/UralFabr.github.io/blob/main/favicon-32x32.png?raw=true" type="image/png">
        </head>
 </h1></h1>
 </html>
