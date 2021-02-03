@@ -34,5 +34,4 @@
 
 <link rel="icon" href="https://github.com/UralFabr/UralFabr.github.io/blob/main/favicon-32x32.png?raw=true" type="image/png">
        </head>
-</h1></h1>
 </html>
