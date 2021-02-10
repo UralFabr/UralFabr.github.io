@@ -5,7 +5,6 @@
         <meta name="yandex-verification" content="725abbc67eea528f" />
         <meta name="google-site-verification" content="YGc2QwAuRkg0vBRF3TnVL3aPfsW6nTffqLocJYYByWQ" />
         <script data-ad-client="ca-pub-2658303976978345" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-        <meta http-equiv="refresh" content="0;https://uralfabr.github.io/home.html">
         <meta name="google-site-verification" content="YGc2QwAuRkg0vBRF3TnVL3aPfsW6nTffqLocJYYByWQ" />
  <script data-ad-client="ca-pub-2658303976978345" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
  <meta name="description" content="UralFabr - Это Прекрасные и одновременно ужасающие мёртвые деревни, на вечно забытые улицы и опустевшие построения Урала. 
@@ -34,4 +33,7 @@
 
 <link rel="icon" href="https://github.com/UralFabr/UralFabr.github.io/blob/main/favicon-32x32.png?raw=true" type="image/png">
        </head>
+       <body>
+    <div><a href="https://uralfabr.github.io/home.html">Ссылка на сайт</a></div>
+    <body>
 </html>
