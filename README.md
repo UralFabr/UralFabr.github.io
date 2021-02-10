@@ -40,5 +40,5 @@
     </style>
       </head>
        <body>
-    <div><a href="https://uralfabr.github.io/home.html">Ссылка на сайт</a></div>
+    <div><h1><a href="https://uralfabr.github.io/home.html">Ссылка на сайт</a></h1></div>
     <body>
