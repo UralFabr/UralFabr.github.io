@@ -14,7 +14,6 @@
                                 таборы,мост, ЦБЗ, Туринский техникум, фазана, Фабричное СОШ, МАОУ Фабричное СОШ,Водоисточник,Акварель, 
                                 Таборинка, Жилина, Клещево, кляче, Чекуново, Школьная,Больничная, Табочинская, Победы, Сельсовет, Революции, 
                                 Таборинская, рабочая, культурная , малково, болото малково, UralFabr , Монастырское,Свердловская, Свердловская область  "> 
-       
        <!-- Yandex.Metrika counter -->
 <script type="text/javascript" >
    (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
@@ -32,8 +31,14 @@
 <!-- /Yandex.Metrika counter -->
 
 <link rel="icon" href="https://github.com/UralFabr/UralFabr.github.io/blob/main/favicon-32x32.png?raw=true" type="image/png">
-       </head>
+<style>
+    .div{
+    font-size:25px;
+    }
+    .body
+   { background: url(https://github.com/GooseFabr/GooseFabr.github.io/blob/main/img/fon.png?raw=true); }
+    </style>
+      </head>
        <body>
     <div><a href="https://uralfabr.github.io/home.html">Ссылка на сайт</a></div>
     <body>
-</html>
