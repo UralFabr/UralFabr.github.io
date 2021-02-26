@@ -30,7 +30,7 @@
 <noscript><div><img src="https://mc.yandex.ru/watch/71357578" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika counter -->
 
-<link rel="icon" href="https://github.com/UralFabr/UralFabr.github.io/blob/main/favicon-32x32.png?raw=true" type="image/png">
+<link rel="icon" href="https://uralfabr.github.io/favicon-32x32.png" type="image/png">
 <style>
     .div{
     font-size:25px;
