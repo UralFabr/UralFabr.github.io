@@ -325,6 +325,15 @@ display: inline-block; /* Строчно-блочный элемент */
 }
 </style>
 </head>
+ <script>
+jQuery.ajax({
+url: "UralFabr.github.io/rr1.html",
+dataType: "html",
+success: function(response) {
+document.getElementById('slideshow-container').innerHTML = response;
+}
+});
+</script>
  <body  onload="startTime()">
    <script src="UralFabr.github.io/jquery-3.2.1.min.js"></script>
   <script src="UralFabr.github.io/jquery.magnific-popup.min.js "></script>
@@ -429,15 +438,7 @@ setTimeout('startTime()',7000);
     </script>
    <br>
    <br>
-<script>
-jQuery.ajax({
-url: "UralFabr.github.io/rr1.html",
-dataType: "html",
-success: function(response) {
-document.getElementById('slideshow-container').innerHTML = response;
-}
-});
-</script>
+
    <div class="slideshow-container">
 
 <div class="mySlides fade">
