@@ -1,4 +1,5 @@
-  <head>
+ <html>
+ <head>
         <link rel="icon" href="https://github.com/UralFabr/UralFabr.github.io/blob/main/favicon-32x32.png?raw=true" type="image/png">
         <title>Ural | Fabr – Заброшки Урала </title>
         <meta name="yandex-verification" content="725abbc67eea528f" />
@@ -31,6 +32,9 @@
     .div{
     font-size:25px;
     }
+  .body{
+  
+  }
     </style>
       </head>
       <body>
