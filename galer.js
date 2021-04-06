@@ -1,4 +1,4 @@
-
+<
          $('#open-popup').magnificPopup({
     items: [
       {
@@ -27,3 +27,4 @@
     },
     type: 'image' // this is a default type
 });
+>
