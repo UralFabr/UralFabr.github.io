@@ -39,4 +39,6 @@
       </head>
       <body>
     <div><h1><a href="https://uralfabr.github.io/home.html">Ссылка на сайт</a></h1></div>
+ <div><h1><a href="https://uralfabr.github.io/fazana.html">Фазана</a></h1></div>
+ <div><h1><a href="https://uralfabr.github.io/brigde.html">Гусьев мост</a></h1></div>
 <body>
