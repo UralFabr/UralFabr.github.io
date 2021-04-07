@@ -246,6 +246,9 @@ img {vertical-align: middle;}
      height:400px;  
   position: relative;
     margin-left: 8px;
+ font-size:16px;
+  color : #494949;
+ padding-top:10px;
 }
 
 .active {
@@ -629,7 +632,9 @@ img.mfp-img {
   cursor: pointer; }
 
 @media screen and (max-width: 800px) and (orientation: landscape), screen and (max-height: 300px) {
- 
+ a { 
+    text-decoration: none; /* Отменяем подчеркивание у ссылки */
+   } 
 </style>
 </head>
  <body  onload="startTime()">
@@ -760,7 +765,7 @@ setTimeout('startTime()',7000);
   <span class="dot"></span> 
 </div>
 </div>
-
+ <a href="#">Подробнее...</a>
 </div>
    <script>
 var slideIndex = 0;
